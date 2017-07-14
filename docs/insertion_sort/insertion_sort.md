@@ -17,7 +17,7 @@
 
   再来个直观一点的图
 
-  ![插入排序](Insertion-sort-example.gif)
+  ![插入排序](Insertion_sort_example.gif)
 
   ​	
 
